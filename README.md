@@ -1,8 +1,12 @@
-##  Olá! Eu sou o Bruno Dias! 👋
+💊 Farmacêutico | 🚀 Empreendedor | 💻 Desenvolvedor em formação
 
-- 🔭 Procuro meu primeiro emprego como programador
-- 🌱 Estudando programação com foco em back-end e linguagem Java
-- 📫 Contate-me no e-mail brunodiasemp2@gmail.com
+🔭 Em busca de novos desafios na área de desenvolvimento de software
+🌱 Estudando programação com foco em back-end e na criação de soluções para problemas reais de negócios
+💊 Farmacêutico com experiência em gestão, atendimento e análise de processos
+🚀 Empreendedor apaixonado por inovação, tecnologia e melhoria contínua
+📈 Interessado em automação, produtividade, finanças e desenvolvimento de produtos digitais
+📫 Contato: brunodiasemp2@gmail.com
+
 <div>
   <a href="https://github.com/77diasbruno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=77diasbruno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
